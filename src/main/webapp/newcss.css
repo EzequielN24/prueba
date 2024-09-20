@@ -1,0 +1,77 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 5 sept 2024, 1:32:58 p. m.
+    Author     : clauz
+*/
+.caja_principal{
+    background-color:rgb(253, 249, 243);
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    margin-top: 6%;
+    border-radius: 30px;
+    box-shadow: 0 0 20px 10px rgb(68, 227, 255);
+}
+ 
+h2{
+    color:cornflowerblue;
+    font-family:Tahoma, sans-serif;
+    margin-left: 60%;
+    margin-top: -350px;
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+body{
+    background:linear-gradient(to top,rgb(0, 136, 255),rgb(0, 229, 254),rgb(0, 136, 255));
+    width: 99%;
+    height: 100%;
+    padding-bottom: 4.5%;
+}
+
+.formulario{
+    height: 300px;
+    width: 400px;
+    margin-left: 55%;
+    margin-top: 3%;
+}
+
+.form-user{
+    padding: 20px;
+    margin-top: 20px;
+    width: 93%;
+    border-radius: 50px;
+    border: 0px;
+    background-color: lightgrey;
+}
+
+.form-pasw{
+    padding: 20px;
+    margin-top: 40px;
+    width: 93%;
+    border-radius: 50px;
+    border: 0px;
+    background-color: lightgrey;
+}
+
+.boton{
+    padding: 15px;
+    margin-top: 50px;
+    width: 93%;
+    border-radius: 50px;
+    margin-left: 20px;
+    background-color:aqua;
+    border: 0px;
+    font-family:'Lucida Sans Unicode';
+}
+
+.logo{
+    width: 250px;
+    height: 250px;
+    margin-left: 15%;
+    margin-top: 12%;
+    border-radius: 10px;
+}
